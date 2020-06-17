@@ -6,10 +6,10 @@
 name: Kakara
 
 # Name of the author
-author: Amit Merchant
+author: KingTux, Ryandw11
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: Open Source Voxel Game
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -21,10 +21,10 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email: admin@kakara.org
   facebook:
   flickr:
-  github: amitmerchant1990/reverie
+  github: kakaragame
   instagram:
   linkedin: 
   pinterest:
