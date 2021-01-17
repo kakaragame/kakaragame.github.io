@@ -30,7 +30,7 @@ The Kakara Engine is the Game Engine the powers the Kakara project.
 
 ## Kakara Project
 This is the main code of the game.
-### [Github](https://github.com/kakaragame/Kakara)
+### [Github](https://github.com/kakaragame/Kakara) - [Builds](https://ci.potatocorp.dev/view/Kakara/job/Kakara/)
 
 ## Core Project
   
