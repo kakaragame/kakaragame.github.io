@@ -4,26 +4,23 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+![An image of Kakara.](/images/kakara-example.png)
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Kakara is game where your imagination really is the limit! Kakara is a highly configurable mod-based game. It's an open-source voxel world with an extensive API and the ability to make anything.
 
-## Features
+## Main Developers
+- [KingTux](https://github.com/wherkamp)
+- [Ryandw11](https://github.com/ryandw11)
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+## Components
+The Kakara project is made up of different components. Here are the components that make up the project:
+- Kakara Engine
+- Kakara
+- Kakara Core
+- Kakara Launcher
+- Kakara Website
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+## Contributing
+The Kakara project is open source and all contributions are welcome.
+
+#### [You can view the github organization here.](https://github.com/kakaragame)
