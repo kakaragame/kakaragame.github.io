@@ -12,6 +12,9 @@ Kakara is game where your imagination really is the limit! Kakara is a highly co
 - [KingTux](https://github.com/wherkamp)
 - [Ryandw11](https://github.com/ryandw11)
 
+## Discord
+We have a public Discord server [here](https://discord.gg/X6Ew5nkNA6) 
+
 ## Components
 The Kakara project is made up of different components. Here are the components that make up the project:
 - Kakara Engine
@@ -23,4 +26,4 @@ The Kakara project is made up of different components. Here are the components t
 ## Contributing
 The Kakara project is open source and all contributions are welcome.
 
-#### [You can view the github organization here.](https://github.com/kakaragame)
+#### [You can view the github organization here.](https://github.com/kakaragame) 
