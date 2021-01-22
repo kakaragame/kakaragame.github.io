@@ -45,7 +45,8 @@ The Core is the Mod API for Kakara.
 </dependency>
 ```
 [View more information here.](https://mvnhelper.potatocorp.dev/kakara/org.kakara.core/common)
-### [Github](https://github.com/kakaragame/core) - [Java Documentation](https://ci.kingtux.dev/job/Kakara%20Core/javadoc/index.html) - [Builds](https://ci.kingtux.dev/job/Kakara%20Core/)
+### [Github](https://github.com/kakaragame/core) - [Java Documentation](https://ci.kingtux.dev/job/Kakara%20Core/javadoc/index.html) - [Builds](https://ci.kingtux.dev/job/Kakara%20Core/) - [Docs](https://docs.kakara.org/core/)
+
 
 ## Kakara Launcher
 The Kakara Launcher is the piece of software that launches the game.  
