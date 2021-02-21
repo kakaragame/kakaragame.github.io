@@ -17,18 +17,20 @@ permalink: /contributing/
   
 The Kakara Engine is the Game Engine the powers the Kakara project.  
   
-[![Maven Version](https://mvnhelper.potatocorp.dev/kakara/org.kakara/engine/badge.png)](https://mvnhelper.potatocorp.dev/kakara/org.kakara/engine)
+[![Maven Version](https://mvnhelper.potatocorp.dev/kakara/org.kakara/engine/badge.png)](https://mvnhelper.potatocorp.dev/kakara/org.kakara/engine) [![Build Status](https://ci.potatocorp.dev/job/Kakara%20Engine%202/job/master/badge/icon)](https://ci.potatocorp.dev/job/Kakara%20Engine%202/job/master/)
 ```xml
 <dependency>
     <groupId>org.kakara</groupId>
     <artifactId>engine</artifactId>
-    <version>1.0-PRE4</version>
+    <version>1.0-PRE5</version>
 </dependency>
 ```
 [View more information here.](https://mvnhelper.potatocorp.dev/kakara/org.kakara/engine)
-### [Github](https://github.com/kakaragame/Engine) - [Java Documentation](https://ci.kingtux.dev/job/Kakara%20Engine/javadoc/index.html) - [Builds](https://ci.potatocorp.dev/view/Kakara/job/Engine/)
+### [Github](https://github.com/kakaragame/Engine) - [Java Documentation](https://ci.potatocorp.dev/job/Kakara%20Engine%202/job/master/javadoc/index.html) - [Builds](https://ci.potatocorp.dev/job/Kakara%20Engine%202/)  
+### [Developer Documentation](https://docs.kakara.org/engine/)
 
 ## Kakara Project
+[![Build Status](https://ci.potatocorp.dev/view/Kakara/job/Kakara/job/master/badge/icon)](https://ci.potatocorp.dev/view/Kakara/job/Kakara/job/master/)  
 This is the main code of the game.
 ### [Github](https://github.com/kakaragame/Kakara) - [Builds](https://ci.potatocorp.dev/view/Kakara/job/Kakara/)
 
@@ -36,7 +38,7 @@ This is the main code of the game.
   
 The Core is the Mod API for Kakara.  
 
-[![Maven Version](https://mvnhelper.potatocorp.dev/kakara/org.kakara.core/common/badge.png)](https://mvnhelper.potatocorp.dev/kakara/org.kakara.core/common)
+[![Maven Version](https://mvnhelper.potatocorp.dev/kakara/org.kakara.core/common/badge.png)](https://mvnhelper.potatocorp.dev/kakara/org.kakara.core/common) [![Build Status](https://ci.potatocorp.dev/view/Kakara/job/Kakara%20Core/badge/icon)](https://ci.potatocorp.dev/view/Kakara/job/Kakara%20Core/)
 ```xml
 <dependency>
     <groupId>org.kakara.core</groupId>
@@ -49,6 +51,7 @@ The Core is the Mod API for Kakara.
 
 
 ## Kakara Launcher
+[![Build Status](https://ci.potatocorp.dev/job/KLauncher/job/master/badge/icon)](https://ci.potatocorp.dev/job/KLauncher/job/master/)  
 The Kakara Launcher is the piece of software that launches the game.  
 ### [Github](https://github.com/kakaragame/KLauncher) - [Builds](https://ci.kingtux.dev/job/KLauncher/)
 
